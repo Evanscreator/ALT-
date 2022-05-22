@@ -1,0 +1,41 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  
+}
+
+form {
+  border: 1px ;
+  padding: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+input[type=text],[type=tel],[type=password],select {
+  width: 100%;
+  background-color: bisque;
+  box-sizing: border-box;
+  border: 5px ;
+  padding:5px;
+  margin: 10px;
+}
+
+input[type=submit] {
+  color: aqua;
+  background-color: azure;
+  width: 25%;
+  padding: 5px;
+  margin: 10px;
+  text-align: center;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+a {
+  float: right;
+}

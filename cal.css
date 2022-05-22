@@ -1,0 +1,39 @@
+#table{
+  background-color: black; 
+  width: 50%;
+  border: radius 5px;
+}
+
+
+td {
+  padding: 5px;
+}
+
+#textfield {
+  background-color: azure;
+}
+
+button{
+  width: 100%;
+  color:rgb(167, 39, 103);
+  border-radius: 4px;
+  font-size: xx-large;
+}
+
+.c , .x , .plus, .up {
+  background-color:navy ;
+  width: 100%;
+}
+
+.p, .q, .d {
+  background-color:black;
+}
+p{
+  float: right;
+  padding: 5px;
+}
+
+
+.eq {
+  background-color: red;
+}
